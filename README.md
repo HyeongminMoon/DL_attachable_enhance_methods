@@ -20,6 +20,7 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 - Quantization with tflite (tflite doc link)
 - TensorRT(TensorRT link)
 - Convert to Onnx(Onnx link)
+- Web-Client side edge computing with tfjs, OpenGL
 
 ## code side enhancement
 - pytorch lightening
