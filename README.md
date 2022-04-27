@@ -11,7 +11,7 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 
 ## Training - data centric
 - Fixing the train-test resolution discrepancy(FixRes) (paper link) (repository link) (subjective readme link)
-- Augmentations (subjective readme link: opencv, etc-> aug없이 먼저 학습 후 aug포함해서 fine-tuning.)
+- Augmentations (subjective readme link: opencv, etc-> aug없이 먼저 학습 후 aug포함해서 fine-tuning. Weight decay 적용해서 먼저 학습 후 제거 후 마지막 학습?)
 - 
 
 ## Inference(Test)
