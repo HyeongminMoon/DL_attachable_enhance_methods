@@ -5,12 +5,13 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 ## Training - model centric
 - basic methods(drop out, weight decay, batch normalization) 
 - An inverse relationship between batch size & learning late (relative link)
-- Fixing the train-test resolution discrepancy(FixRes) (paper link) (repository link) (subjective readme link)
-- Cosine Annealing 
 - 
+- Linear Warmup & Cosine Annealing 
+- Label Smoothing
 
 ## Training - data centric
-- Augmentations (subjective readme link: opencv, etc)
+- Fixing the train-test resolution discrepancy(FixRes) (paper link) (repository link) (subjective readme link)
+- Augmentations (subjective readme link: opencv, etc-> aug없이 먼저 학습 후 aug포함해서 fine-tuning.)
 - 
 
 ## Inference(Test)
