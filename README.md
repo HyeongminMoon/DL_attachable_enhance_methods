@@ -34,3 +34,7 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 
 ## Visualization
 - gradcam(heatmap)
+
+## Deploying
+- Torchserve
+- Kserve
