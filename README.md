@@ -31,3 +31,6 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 - Firebase: mobile models platform
 - pytorch lightening
 - pytorch geometric
+
+## Visualization
+- gradcam(heatmap)
