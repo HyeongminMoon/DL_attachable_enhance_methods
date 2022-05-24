@@ -8,6 +8,7 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 - 
 - Linear Warmup & Cosine Annealing 
 - Label Smoothing
+- optuna, hyperparameter optimization (https://www.kaggle.com/code/tyrionlannisterlzy/jpx-lgbm-model-auto-search-para)
 
 ## Training - data centric
 - Fixing the train-test resolution discrepancy(FixRes) (paper link) (repository link) (subjective readme link)
