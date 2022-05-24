@@ -21,9 +21,10 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 
 ## optimization & lightening
 - Quantization with tflite (tflite doc link)
-- TensorRT(TensorRT link)
-- Convert to Onnx(Onnx link)
+- TensorRT(TensorRT link) -> for GPU
+- Convert to Onnx(Onnx link) and dynamic&static quantization
 - Web-Client side edge computing with tfjs, OpenGL
+- pruning
 
 ## Useful Toolkit(site)
 - My quickstarters
@@ -32,6 +33,7 @@ Deep Learning attachable method to enhance model in my subjective. (Growing!😇
 - Firebase: mobile models platform
 - pytorch lightening
 - pytorch geometric
+- mediapipe: lite models for mobile devices & small cpu runtime
 
 ## Visualization
 - gradcam(heatmap)
